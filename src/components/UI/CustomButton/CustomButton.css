@@ -1,0 +1,27 @@
+
+.custom-button {
+    font: inherit;
+    background: #ff2058;
+    padding: 0.5rem 2rem;
+    color: white;
+    border: 1px solid #ff2058;
+    cursor: pointer;
+  }
+  
+  .custom-button:hover, .custom-button:active {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.26);
+  }
+  
+  .custom-button:focus {
+    outline: none;
+  }
+
+  .curved
+  {
+    border-radius: 5px;
+  }
+
+  .margined
+  {
+    margin: 0.5rem 0;
+  }
